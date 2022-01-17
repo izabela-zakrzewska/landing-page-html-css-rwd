@@ -85,11 +85,6 @@ h2 {
   transition: 1s;
 }
 
-.button:focus {
-  background-color: white;
-  color: black;
-}
-
 /* SECTION 1 */
 
 .container-3 {
@@ -209,14 +204,6 @@ strong {
   z-index: 1;
   top: -14px;
   left: -14px;
-}
-
-.item:focus {
-  transform: scale(1.05);
-}
-
-.container-4 .special-offer:focus {
-  transform: scale(1.05);
 }
 
 /* FOOTER */
